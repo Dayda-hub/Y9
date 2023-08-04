@@ -1,0 +1,7 @@
+C:\Users\shadrin\source\repos\TraningCodeBlog\FitnessBL\obj\Debug\FitnessBL.csproj.AssemblyReference.cache
+C:\Users\shadrin\source\repos\TraningCodeBlog\FitnessBL\obj\Debug\FitnessBL.csproj.SuggestedBindingRedirects.cache
+C:\Users\shadrin\source\repos\TraningCodeBlog\FitnessBL\obj\Debug\FitnessBL.csproj.CoreCompileInputs.cache
+C:\Users\shadrin\source\repos\TraningCodeBlog\FitnessBL\bin\Debug\FitnessBL.exe
+C:\Users\shadrin\source\repos\TraningCodeBlog\FitnessBL\bin\Debug\FitnessBL.pdb
+C:\Users\shadrin\source\repos\TraningCodeBlog\FitnessBL\obj\Debug\FitnessBL.exe
+C:\Users\shadrin\source\repos\TraningCodeBlog\FitnessBL\obj\Debug\FitnessBL.pdb

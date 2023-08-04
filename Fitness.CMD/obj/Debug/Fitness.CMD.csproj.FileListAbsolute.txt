@@ -1,0 +1,11 @@
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\bin\Debug\Fitness.CMD.exe.config
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\bin\Debug\Fitness.CMD.exe
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\bin\Debug\Fitness.CMD.pdb
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.AssemblyReference.cache
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.CoreCompileInputs.cache
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\obj\Debug\Fitness.CMD.exe
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\obj\Debug\Fitness.CMD.pdb
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\bin\Debug\FitnessBL.exe
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\bin\Debug\FitnessBL.pdb
+C:\Users\shadrin\source\repos\TraningCodeBlog\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.CopyComplete
