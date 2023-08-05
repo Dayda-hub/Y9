@@ -20,7 +20,7 @@ namespace FitnessBL
     }
     public class Controller
     {
-        public User User { get; set; }
+        public List<User>User { get; }
 
         public Controller(User user)
         {
@@ -28,6 +28,8 @@ namespace FitnessBL
             {
                 throw new ArgumentNullException("поле User не может быть пустым");
             }
+
+            User = new  List<User>();   
         }
         public void Save()
         {
@@ -43,7 +45,7 @@ namespace FitnessBL
         /// </summary>
         /// <returns>Пользователь приложения</returns>
         /// <exception cref="FileLoadException"></exception>
-        public User Load() 
+        public List<User> GetUserData() 
         {
             BinaryFormatter formatter = new BinaryFormatter();
             using (var fs = new FileStream("users.bin", FileMode.OpenOrCreate))
@@ -54,7 +56,7 @@ namespace FitnessBL
                 }
                 else
                 {
-                    throw new FileLoadException("Не удалось десириализовать пользователя","users.bin");  
+                    return new List<User>();
                 }
               
             }
